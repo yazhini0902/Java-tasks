@@ -1,6 +1,6 @@
 package javanew;
 import java.util.Scanner;
-public class array
+public class spynum
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner (System.in);
